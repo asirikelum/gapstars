@@ -1,4 +1,4 @@
-Instruction
+Instruction:
 
 1. Add .htaccess file for the rootpath and add following code
 
@@ -12,6 +12,11 @@ RewriteRule ^(.*)$ index.php/$1 [L]
 2. Download the Database from the "gs_test_mysql_db.sql"
 3. Config Database access in applications/config/database.php
 4. Create a instagram Application and provide the credentials https://www.instagram.com/developer/
+
+
+** I have used the Instagram Sandbox for this application so it will not provide data for all the public access. To send this application live it will take sometime. Therefor I request you to create a Instagram Application or Send me the test Instagram id to link with my Sandbox 
+
+
 5. Provide the credentials applications/controllers/Insta.php
 
 
