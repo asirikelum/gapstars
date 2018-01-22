@@ -24,3 +24,4 @@ RewriteRule ^(.*)$ index.php/$1 [L]
         ));
         
 6. Enjoy the application...        
+
