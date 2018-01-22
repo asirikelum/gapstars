@@ -9,7 +9,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php/$1 [L]
 
-2. Download the Database from the DB folder
+2. Download the Database from the "gs_test_mysql_db.sql"
 3. Config Database access in applications/config/database.php
 4. Create a instagram Application and provide the credentials https://www.instagram.com/developer/
 5. Provide the credentials applications/controllers/Insta.php
