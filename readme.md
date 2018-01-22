@@ -23,5 +23,5 @@ RewriteRule ^(.*)$ index.php/$1 [L]
             'apiCallback' => 'http://'.$_SERVER['HTTP_HOST'].'/insta/insta_success' // 
         ));
         
-6. Enjoy the application...        
+6. Enjoy the application...       
 
