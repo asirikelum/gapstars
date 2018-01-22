@@ -25,3 +25,18 @@ RewriteRule ^(.*)$ index.php/$1 [L]
         
 6. Enjoy the application...       
 
+
+
+Further Development:
+
+Show Followers Growth and Show Post Impression Growth as a report
+
+Show Different Post according to the Hash Tags
+
+Can Add a user login and allow different users to access the application
+
+
+Framework : CodeIgniter 3
+API : Instagram
+Jquery
+JavaScript 
